@@ -3,7 +3,7 @@
 <!--
 **Meghana0405/Meghana0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 👋 Hey there! I'm MEGHANA, a passionate tech enthusiast exploring the realms of web development, AI, and beyond! 
 
