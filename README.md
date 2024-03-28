@@ -15,8 +15,7 @@ Here are some ideas to get you started:-->
 
 💬 Ask me about my journey in tech, my projects, or anything you're curious about!
 
-📫 You can reach me via email at (meghanasai78@gmail.com) 
-or connect with me on [LinkedIn] (https://www.linkedin.com/in/sai-meghana-680184278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) and [GitHub] (https://github.com/Meghana0405). 
+📫 You can reach me or connect with me [LinkedIn](https://www.linkedin.com/in/sai-meghana-680184278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) and [GitHub](https://github.com/Meghana0405). 
 
 ⚡ Fun fact: I've biked through city streets at midnight, exploring the urban landscape under the moonlight! 🌙🚴‍♂️
 
